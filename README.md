@@ -1,11 +1,14 @@
 # MangakaCoin
-Shell script to install a [mangaka Masternode](http://mangakacoin.pro/) on a Linux server running Ubuntu 16.04. Use it on your own risk.
+Generic shell script for installing masternodes courtecy of [AltTank.ca](https://www.alttank.ca) on a Linux server running Ubuntu 16.04. Use it on your own risk.
+
+FORKED from Mangaka Coin
 ***
 
 ## Installation
+- Please look above and change the masternode script file to the right name you wish to install;
 ```
-wget -q https://raw.githubusercontent.com/mangakacoin/masternode/master/mn_install.sh
-bash mn_install.sh
+wget -q https://raw.githubusercontent.com/mangakacoin/masternode/master/[name of masternode install script].sh
+bash [masternode install script].sh
 ```
 ***
 
