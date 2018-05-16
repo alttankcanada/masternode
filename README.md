@@ -1,4 +1,4 @@
-# MangakaCoin
+# Generic Masternode Install Script
 Generic shell script for installing masternodes courtecy of [AltTank.ca](https://www.alttank.ca) on a Linux server running Ubuntu 16.04. Use it on your own risk.
 
 FORKED from Mangaka Coin
