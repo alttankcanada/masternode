@@ -7,7 +7,7 @@ FORKED from Mangaka Coin
 ## Installation
 - Please look above and change the masternode script file to the right name you wish to install;
 ```
-wget -q https://raw.githubusercontent.com/mangakacoin/masternode/master/[name of masternode install script].sh
+wget -q https://raw.githubusercontent.com/alttankcanada/masternode/master/[name of masternode install script].sh
 bash [masternode install script].sh
 ```
 ***
